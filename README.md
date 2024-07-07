@@ -1,2 +1,3 @@
 # Rockee-Closs
-中学生。JavaScript, TypeScript, React(Next.js), Viteやってます。
+中学生。クライアントサイドを主にやってます。   
+C, Rust勉強中。
