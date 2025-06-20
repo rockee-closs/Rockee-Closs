@@ -1,3 +1,5 @@
 # Rockee-Closs
-  
-C, Rust勉強中。
+
+
+JavaScriptでゲームとか、作ってた。
+C#+Unity, Rust勉強中。
