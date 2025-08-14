@@ -1,4 +1,4 @@
 # Rockee-Closs
 
-Javascript, C#+Unity, Rust
+JavaScript, C# + Unity, Rust etc.
 
